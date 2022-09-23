@@ -23,7 +23,7 @@
     },
     {
       "data": {
-        "name": "happiness-index-countries",
+        "name": "happiness-index-countries-2019",
         "url": "https://raw.githubusercontent.com/vjak0002/fit3179-w9/main/data/countries-happiness-2019.csv"
       },
       "mark": {
@@ -45,7 +45,7 @@
           "field": "score",
           "type": "quantitative",
           "title": "Happiness Index",
-          "scale": { "range": [0, 75] }
+          "scale": { "range": [0, 100] }
         }
       }
     }
