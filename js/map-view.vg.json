@@ -46,11 +46,6 @@
           "type": "quantitative",
           "title": "Happiness Index",
           "scale": { "range": [0, 75] }
-        },
-        "text": {
-          "field": "country",
-          "type": "nominal",
-          "title": "Country"
         }
       }
     }
